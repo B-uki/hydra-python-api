@@ -1,8 +1,6 @@
 import iop_python as iop
 
 
-
-
 phrase = "blind market ability shoot topple round inmate pass lunch symbol average alpha party notice switch sea pass toy alien fuel pull angle weather sca"
 try:
     wallet = iop.get_morpheus_vault(phrase,"pass")
